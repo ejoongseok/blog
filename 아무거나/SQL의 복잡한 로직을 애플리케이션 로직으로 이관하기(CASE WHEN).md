@@ -133,7 +133,7 @@ class ServiceTest {
 }
 
 class TypeTest {
-  // 비즈니스 로직에 대한 테스트는 Type에서 검증한다.
+  // 비즈니스 로직에 대한 테스트는 Type의 단위 테스트로 검증한다.
   @Test
   void defaultTypeAsString() {
     Assertions.assertThat(createType(DEFAULT_CODE).asString()).isEquals("defaultType");
@@ -156,7 +156,7 @@ class TypeTest {
 
 ### 두 번째 개선의 장점
 이 방법을 통해 비즈니스 로직을 도메인 모델 객체인 `Type` 클래스에 집중시켜 응집도를 높일 수 있게 되었다.  
-또한, Type 객체의 로직을 단위 테스트할 수 있어, 테스트가 훨씬 쉽고 가벼워졌다.
+또한, 비즈니스 로직을 단위 테스트로 검증 할 수 있어, 테스트가 훨씬 쉽고 가벼워졌다.
 
 ### 두 번째 개선의 단점
 기존에는 CASE에 걸리는 SQL만 조회되었다면, 이제는 모든 CASE에 대한 SQL을 한 번에 가져오므로 쿼리가 무거워지고 이로 인해 성능 저하가 발생할 수 있다.  

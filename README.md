@@ -10,4 +10,4 @@
 - [아무거나](https://github.com/ejoongseok/blog-stage/tree/main/%EC%95%84%EB%AC%B4%EA%B1%B0%EB%82%98)
   - [시스템 개발 및 연동 시 고려해야 할 사항](https://github.com/ejoongseok/blog/blob/main/%EC%95%84%EB%AC%B4%EA%B1%B0%EB%82%98/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%97%B0%EB%8F%99%20%EC%8B%9C%20%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC%20%ED%95%A0%20%EC%82%AC%ED%95%AD.md)
   - [테이블 모델링 시 SRP 고려하기](https://github.com/ejoongseok/blog/blob/main/%EC%95%84%EB%AC%B4%EA%B1%B0%EB%82%98/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EC%8B%9C%20SRP%20%EA%B3%A0%EB%A0%A4%ED%95%98%EA%B8%B0.md)
-  - [ThreadPoolExecutor 정리](https://github.com/ejoongseok/blog/blob/main/%EC%95%84%EB%AC%B4%EA%B1%B0%EB%82%98/%EC%A2%85%EC%A2%85%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20ThreadPoolExecutor%20%EC%A0%95%EB%A6%AC.md)
+  - [ThreadPoolExecutor 정리](https://github.com/ejoongseok/blog/blob/main/%EC%95%84%EB%AC%B4%EA%B1%B0%EB%82%98/ThreadPoolExecutor%20%EC%A0%95%EB%A6%AC.md)

@@ -1,4 +1,4 @@
-# 종종 보이는 ThreadPoolExecutor 정리
+# ThreadPoolExecutor 정리
 
 ## 엔터프라이즈 웹 애플리케이션에서 자주 사용하는 ThreadPoolExecutor
 

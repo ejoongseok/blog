@@ -15,3 +15,4 @@
 - [문서](https://github.com/ejoongseok/blog/tree/main/%EB%AC%B8%EC%84%9C)
   - [CS 처리 문서 작성 양식](https://github.com/ejoongseok/blog/blob/main/%EB%AC%B8%EC%84%9C/CS%20%EC%B2%98%EB%A6%AC%20%EB%AC%B8%EC%84%9C%20%EC%9E%91%EC%84%B1%20%EC%96%91%EC%8B%9D.md)
   - [부하 테스트 작성 양식](https://github.com/ejoongseok/blog/blob/main/%EB%AC%B8%EC%84%9C/%EB%B6%80%ED%95%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%91%EC%84%B1%20%EC%96%91%EC%8B%9D.md)
+  - [인시던트 작성 양식](https://github.com/ejoongseok/blog/blob/main/%EB%AC%B8%EC%84%9C/%EC%9D%B8%EC%8B%9C%EB%8D%98%ED%8A%B8%20%EC%9E%91%EC%84%B1%20%EC%96%91%EC%8B%9D.md)

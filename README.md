@@ -13,6 +13,7 @@
   - [테이블 모델링 시 SRP 고려하기](https://github.com/ejoongseok/blog/blob/main/%EA%B8%B0%EC%88%A0/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EC%8B%9C%20SRP%20%EA%B3%A0%EB%A0%A4%ED%95%98%EA%B8%B0.md)
   - [ThreadPoolExecutor 정리](https://github.com/ejoongseok/blog/blob/main/%EA%B8%B0%EC%88%A0/ThreadPoolExecutor%20%EC%A0%95%EB%A6%AC.md)
   - [SQL의 복잡한 로직을 애플리케이션 로직으로 이관하기(CASE WHEN)](https://github.com/ejoongseok/blog/blob/main/%EA%B8%B0%EC%88%A0/SQL%EC%9D%98%20%EB%B3%B5%EC%9E%A1%ED%95%9C%20%EB%A1%9C%EC%A7%81%EC%9D%84%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EB%A1%9C%EC%A7%81%EC%9C%BC%EB%A1%9C%20%EC%9D%B4%EA%B4%80%ED%95%98%EA%B8%B0(CASE%20WHEN).md)
+  - [코딩 컨벤션](https://github.com/ejoongseok/blog/blob/main/%EA%B8%B0%EC%88%A0/%EC%BD%94%EB%94%A9%20%EC%BB%A8%EB%B2%A4%EC%85%98.md)
 - [문서](https://github.com/ejoongseok/blog/tree/main/%EB%AC%B8%EC%84%9C)
   - [CS 처리 문서 작성 양식](https://github.com/ejoongseok/blog/blob/main/%EB%AC%B8%EC%84%9C/CS%20%EC%B2%98%EB%A6%AC%20%EB%AC%B8%EC%84%9C%20%EC%9E%91%EC%84%B1%20%EC%96%91%EC%8B%9D.md)
   - [부하 테스트 작성 양식](https://github.com/ejoongseok/blog/blob/main/%EB%AC%B8%EC%84%9C/%EB%B6%80%ED%95%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%91%EC%84%B1%20%EC%96%91%EC%8B%9D.md)

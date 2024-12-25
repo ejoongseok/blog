@@ -10,6 +10,7 @@
   - [익숙함에서 온 자신감, 그리고 방심이 만든 실수](https://github.com/ejoongseok/blog/blob/main/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/%EC%9D%B5%EC%88%99%ED%95%A8%EC%97%90%EC%84%9C%20%EC%98%A8%20%EC%9E%90%EC%8B%A0%EA%B0%90%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EB%B0%A9%EC%8B%AC%EC%9D%B4%20%EB%A7%8C%EB%93%A0%20%EC%8B%A4%EC%88%98.md)
   - [5.신규 장바구니 페이지 안전하게 오픈하기](https://github.com/ejoongseok/blog/blob/main/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/5.%20%EC%8B%A0%EA%B7%9C%20%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C%20%EC%98%A4%ED%94%88%ED%95%98%EA%B8%B0.md)
   - [6.레거시 시스템 세션 의존성 제거하기](https://github.com/ejoongseok/blog/blob/main/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/6.%EB%A0%88%EA%B1%B0%EC%8B%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%B8%EC%85%98%20%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)
+  - [드랍된 프로젝트](https://github.com/ejoongseok/blog/blob/main/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/%EB%93%9C%EB%9E%8D%EB%90%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.md)
 - [기술](https://github.com/ejoongseok/blog/tree/main/%EA%B8%B0%EC%88%A0)
   - [시스템 개발 및 연동 시 고려해야 할 사항](https://github.com/ejoongseok/blog/blob/main/%EA%B8%B0%EC%88%A0/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%97%B0%EB%8F%99%20%EC%8B%9C%20%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC%20%ED%95%A0%20%EC%82%AC%ED%95%AD.md)
   - [테이블 모델링 시 SRP 고려하기](https://github.com/ejoongseok/blog/blob/main/%EA%B8%B0%EC%88%A0/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EC%8B%9C%20SRP%20%EA%B3%A0%EB%A0%A4%ED%95%98%EA%B8%B0.md)

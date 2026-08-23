@@ -12,6 +12,7 @@
   - [6.레거시 시스템 세션 의존성 제거하기](https://github.com/ejoongseok/blog/blob/main/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/6.%EB%A0%88%EA%B1%B0%EC%8B%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%B8%EC%85%98%20%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)
   - [드랍된 프로젝트](https://github.com/ejoongseok/blog/blob/main/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/%EB%93%9C%EB%9E%8D%EB%90%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.md)
   - [2024 회고](https://github.com/ejoongseok/blog/blob/main/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/2024%20%ED%9A%8C%EA%B3%A0.md)
+  - [사내 지식 자산화 여정(feat.AX)](https://github.com/ejoongseok/blog/blob/main/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/%EC%82%AC%EB%82%B4%20%EC%A7%80%EC%8B%9D%20%EC%9E%90%EC%82%B0%ED%99%94%20%EC%97%AC%EC%A0%95(feat.AX).md)
 - [기술](https://github.com/ejoongseok/blog/tree/main/%EA%B8%B0%EC%88%A0)
   - [시스템 개발 및 연동 시 고려해야 할 사항](https://github.com/ejoongseok/blog/blob/main/%EA%B8%B0%EC%88%A0/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%97%B0%EB%8F%99%20%EC%8B%9C%20%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC%20%ED%95%A0%20%EC%82%AC%ED%95%AD.md)
   - [테이블 모델링 시 SRP 고려하기](https://github.com/ejoongseok/blog/blob/main/%EA%B8%B0%EC%88%A0/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EC%8B%9C%20SRP%20%EA%B3%A0%EB%A0%A4%ED%95%98%EA%B8%B0.md)

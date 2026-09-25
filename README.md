@@ -14,6 +14,7 @@
   - [2024 회고](https://github.com/ejoongseok/blog/blob/main/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/2024%20%ED%9A%8C%EA%B3%A0.md)
   - [사내 지식 자산화 여정(feat.AX)](https://github.com/ejoongseok/blog/blob/main/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/%EC%82%AC%EB%82%B4%20%EC%A7%80%EC%8B%9D%20%EC%9E%90%EC%82%B0%ED%99%94%20%EC%97%AC%EC%A0%95(feat.AX).md)
   - [하네스 엔지니어링과 테스트 코드의 공통점](https://github.com/ejoongseok/blog/blob/main/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/%ED%95%98%EB%84%A4%EC%8A%A4%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%EA%B3%BC%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BD%94%EB%93%9C%EC%9D%98%20%EA%B3%B5%ED%86%B5%EC%A0%90.md)
+  - [업무는 생각보다 정형화되어 있다(feat. Software Factory 구축)](https://github.com/ejoongseok/blog/blob/main/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/%EC%97%85%EB%AC%B4%EB%8A%94%20%EC%83%9D%EA%B0%81%EB%B3%B4%EB%8B%A4%20%EC%A0%95%ED%98%95%ED%99%94%EB%90%98%EC%96%B4%20%EC%9E%88%EB%8B%A4(feat.%20Software%20Factory%20%EA%B5%AC%EC%B6%95).md)
 - [기술](https://github.com/ejoongseok/blog/tree/main/%EA%B8%B0%EC%88%A0)
   - [시스템 개발 및 연동 시 고려해야 할 사항](https://github.com/ejoongseok/blog/blob/main/%EA%B8%B0%EC%88%A0/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%97%B0%EB%8F%99%20%EC%8B%9C%20%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC%20%ED%95%A0%20%EC%82%AC%ED%95%AD.md)
   - [테이블 모델링 시 SRP 고려하기](https://github.com/ejoongseok/blog/blob/main/%EA%B8%B0%EC%88%A0/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EC%8B%9C%20SRP%20%EA%B3%A0%EB%A0%A4%ED%95%98%EA%B8%B0.md)
